@@ -1,1 +1,1 @@
-{"regressions": []}
+{"regressions": [["maxcut.MaxcutBenchmarks.time_generate_qubo(12, 9)", "graphs/arch-x86_64/branch-main/cplex/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz/cvxpy/gurobipy/machine-buildkitsandbox/matplotlib/num_cpu-4/os-Linux 5.10.25-linuxkit/python-3.8/ram-2035400/maxcut.MaxcutBenchmarks.time_generate_qubo.json", {}, 15, 0.060171991999595775, 0.051079357501294, [[null, 717, 0.051079357501294, 0.05523493599957874], [null, 1083, 0.05523493599957874, 0.060171991999595775]]]]}
